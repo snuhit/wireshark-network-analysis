@@ -12,7 +12,7 @@ Capture live network packets and identify basic protocols and traffic types.
 6. Documented findings in `report.md`.
 
 ## Contents
-- `network_capture.pcap` → Raw packet capture file.
+- `Network_Capture.pcap` → Raw packet capture file.
 - `report.md` → Summary of identified protocols.
 - `screenshots/` → (Optional) Wireshark screenshots.
 
